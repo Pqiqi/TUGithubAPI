@@ -12,6 +12,6 @@ if __name__ == '__main__':
     x = r.repos.list_your_repos()
     print(x.text)
 
-    r = Github(username="xxxxxx", password="xxxxx")
+    r = Github(username="Pqiqi", password="100306psq")
     x = r.repos.list_your_repos()
     print(x.text)
